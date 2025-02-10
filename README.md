@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/LPGTE/StacksNotes/blob/master/staksnoteexport.png" width="70%" title="hover text">
+  <img src="[https://github.com/LPGTE/StacksNotes/blob/master/staksnoteexport.png](https://github.com/lpgtesoftsopensource/angular-auto-scroll/blob/main/auto-scroll.png)" width="70%" title="hover text">
 </p>
 
 
