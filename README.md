@@ -1,5 +1,10 @@
 # Automatic Scrolling
 
+
+<p align="center">
+  <img src="https://github.com/LPGTE/StacksNotes/blob/master/staksnoteexport.png" width="70%" title="hover text">
+</p>
+
 **Methode 1**  <br/>
 
 PM> Cd data  <br/>
