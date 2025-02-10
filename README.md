@@ -1,6 +1,7 @@
 # Automatic Scrolling
 
 There are several solutions to allow objects to scroll automatically. 
+<br>
 The current solution is implemented in Angular and consists of scrolling the elements by progressively changing their coordinates.
 
 **Screenshot**
