@@ -1,0 +1,32 @@
+.animatedElementsContainerStyle {
+  height: 160px;
+  width: 500px;
+  height: 140px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  white-space: nowrap;
+  position: relative;
+}
+
+.animatedItem {
+  display: inline-block;
+  width: 200px;
+  height: 130px;
+  position: absolute;
+  background-color: yellow;
+  font-size: 30;
+  font-weight: bold;
+  margin: 0 auto;
+  cursor: pointer;
+}
+.animatedItem {
+  display: inline-block;
+}
+
+.contentContainer {
+  width: 100;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
